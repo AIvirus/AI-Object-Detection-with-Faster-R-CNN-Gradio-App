@@ -11,15 +11,14 @@ Built with **PyTorch**, **Gradio**, and **PIL**!
 - Live demo with **Gradio's public share link**.
 
 ## 🖼 Demo
-| Upload an Image | Detect Objects |
-|:---------------:|:--------------:|
-| ![Upload](https://via.placeholder.com/200x150?text=Upload+Image) | ![Result](https://via.placeholder.com/200x150?text=Detection+Result) |
+![image](https://github.com/user-attachments/assets/766a984d-ad7d-4300-bed4-c230af7275b0)
+
 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/AIvirus/AI-Object-Detection-with-Faster-R-CNN-Gradio-App.git
+cd AI-Object-Detection-with-Faster-R-CNN-Gradio-App
 pip install -r requirements.txt
 ```
 
