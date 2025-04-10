@@ -11,7 +11,8 @@ Built with **PyTorch**, **Gradio**, and **PIL**!
 - Live demo with **Gradio's public share link**.
 
 ## 🖼 Demo
-![image](https://github.com/user-attachments/assets/766a984d-ad7d-4300-bed4-c230af7275b0)
+![Uploading image.png…]()
+
 
 
 ## 📦 Installation
